@@ -38,5 +38,4 @@ collaborate (see also: git help workflows)
    push       Update remote refs along with associated objects
 
 'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
+earioncept guides. See 'git help <command>' or 'git help <concept>'
