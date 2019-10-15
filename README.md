@@ -1,5 +1,9 @@
-# BASH SCRIPTING TP
-
+# BASH SCRIPTING exercises
+## Download the repository:
+```
+$ git clone https://github.com/chaoyingc/bash.git
+```
+### exo:
 - 1- Créer un script `sum.sh` qui prend 2 variables a(=20) et b(=30) et affiche une varibale  sum=a+b
 - 2- Créer un script `nameUser.sh ` qui afficher le nom de l'utilisateur ainsi que la date du jour. Le script devra demander le nom à l'utilisateur et qui l'écrit dans la console
 - 3- Créer un script `compt.sh ` qui affiche une variable count (compteur) qui s'incrémente et s'arrète au chiffre 5
